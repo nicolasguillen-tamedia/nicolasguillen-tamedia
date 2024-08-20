@@ -1,16 +1,24 @@
-## Hi there 👋
+# Projects I worked on
+## 2024
+Disco Android
+- Move localStorage to app storage
+- Show user's currency in Aboshop
+  
+Disco Front
+- Migrate all workflows from CircleCI to GitHub Actions
+- Setup end-to-end testing using Playwright
+- Test CDN configuration using Playwright
+- Generate teaser screenshots using Playwright
+- Focused work with redirect issue
+- Fix Lighthouse job
+ 
+Disco Backstage
+- Refactor push service using AWS SQS and Lambdas
+- Create push service tester using GitHub Actions
 
-<!--
-**nicolasguillen-tamedia/nicolasguillen-tamedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 2023
+Disco Android
+- Hybrid apps go-live
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Disco Backstage
+- Create push service using Firebase Messaging 
