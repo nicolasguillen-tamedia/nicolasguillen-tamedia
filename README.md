@@ -1,4 +1,3 @@
-# Projects I worked on
 ## 2024
 Disco Android
 - Move localStorage to app storage
