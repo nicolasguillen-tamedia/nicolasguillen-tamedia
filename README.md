@@ -4,6 +4,7 @@ Disco Android
 - Show user's currency in Aboshop
   
 Disco Front
+- Apps Sales Initiative POC
 - Migrate all workflows from CircleCI to GitHub Actions
 - Setup end-to-end testing using Playwright
 - Test CDN configuration using Playwright
